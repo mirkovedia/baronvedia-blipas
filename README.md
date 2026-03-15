@@ -83,3 +83,9 @@ estado:     Aprendiendo, construyendo y rompiendo cosas
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:0d1117&height=120&section=footer&text=Aprendiendo+y+construyendo+desde+Bolivia+%F0%9F%8C%8E&fontSize=14&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
+
+## 🌐 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%"/>
+</div>
