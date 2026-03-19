@@ -17,13 +17,13 @@
 ## 🙋 Sobre mí
 ```yaml
 nombre:     Mirko Baron Vedia
-rol:        Estudiante de Ingeniería en Sistemas — UAGRM
+rol:        Estudiante de Ingeniería en Sistemas — UTEPSA
 ubicacion:  Santa Cruz de la Sierra, Bolivia
 intereses:  IA, automatización, Web3, desarrollo web
 estado:     Aprendiendo, construyendo y rompiendo cosas
 ```
 
-- 🎓 Estudiante de **Ingeniería en Sistemas** en la UAGRM
+- 🎓 Estudiante de **Ingeniería en Sistemas** en la UTEPSA
 - 🤖 Me manejo muy bien con **herramientas de IA** — Claude, Claude Code, Codex, Antigravity
 - 🛠️ Construyo proyectos con **Node.js, JavaScript y APIs de IA**
 - - 🇬🇧 Inglés **B1** — lectura y escritura fluida, mejorando constantemente
@@ -46,9 +46,8 @@ estado:     Aprendiendo, construyendo y rompiendo cosas
 **Lenguajes (en progreso 📚)**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Entorno & DevOps**
 
